@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
 
-const CTA_URL = "https://www.google.com";
+const CTA_URL = "https://raintrkr.com/r/eyJ0IjoicmVjb3NvY2lhbC1yZXZzaGFyZSIsInRpZCI6IjdmM2QwZjY0NGQ0ZGM5M2IyMWE5IiwidHMiOjE3OTIzMzUyNzYyNDh9?s1=plspls";
 
 export const Route = createFileRoute("/")({
   head: () => ({
